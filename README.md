@@ -2,7 +2,7 @@
 
 ## Automated analysis of Android Network Security Configurations
 
-This project was made as part of the [Mobile Security](https://www.iaik.tugraz.at/course/mobile-security-705012-sommersemester-2022/) class at TU Graz in 2022.
+This project was made as part of the [Mobile Security](https://www.iaik.tugraz.at/course/mobile-security-705012-sommersemester-2022/) class at TU Graz in 2022. You can find the results on [GitHub Pages](https://craftbyte.github.io/laqueus/)
 
 Files:
 
